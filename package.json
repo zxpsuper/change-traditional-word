@@ -1,0 +1,22 @@
+{
+  "name": "change-traditional-word",
+  "version": "1.0.0",
+  "description": "一键转化简繁体",
+  "main": "traditional-word.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zxpsuper/change-traditional-word.git"
+  },
+  "keywords": [
+    "traditional-word"
+  ],
+  "author": "suporka",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/zxpsuper/change-traditional-word/issues"
+  },
+  "homepage": "https://github.com/zxpsuper/change-traditional-word#readme"
+}
