@@ -31,12 +31,17 @@ or
 `new TraditionWord(bool, obj)`
 
 bool
+
 **type: String**
+
 "true" --default(默认)
+
 "false" -- 转化为简体
 
 obj
+
 **type: Object**
+
 默认为 `document.body`，也可以自定义传入DOM元素
 
 ## Github
